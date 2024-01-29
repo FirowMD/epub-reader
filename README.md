@@ -1,8 +1,7 @@
 # epub-reader
 Epub reader powered by Solar2D
 
-
-![menu](doc/Screenshot_menu.jpg)  |
-![preview](doc/Screenshot_preview) |
-![reading_image](doc/Screenshot_reading_image.jpg) |
-![reading](doc/Screenshot_reading.jpg) |
+<img src="doc/Screenshot_menu.jpg" width="300" height="700">
+<img src="doc/Screenshot_preview.jpg" width="300" height="700">
+<img src="doc/Screenshot_reading_image.jpg" width="300" height="700">
+<img src="doc/Screenshot_reading.jpg" width="300" height="700">
